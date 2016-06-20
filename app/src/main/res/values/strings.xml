@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyNaviDrawer01</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_usa_federal_holidays">USA Federal Holidays</string>
+    <string name="text_bd_flower">Birthday Month Flower</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_holiday_fragment">USA Federal Holidays</string>
+
+    <string name="hello_birth_flower_fragment">Birth Flowers By Month</string>
+    <string name="birth_flower_source_from">http://www.whatsmybirthflower.com/</string>
+
+
+    <!--USA Federal Holidays-->
+    <string-array name="usa_federal_holiday_array">
+        <item>"New Year's Day - January 1 \n"</item>
+        <item>"Martin Luther King, Jr. Day - Third Monday in January \n"</item>
+        <item>"George Washington's Birthday - Third Monday in February \n"</item>
+        <item>"Memorial Day - Last Monday in May \n"</item>
+        <item>"Independence Day - July 4 \n"</item>
+        <item>"Labor Day - First Monday in September \n"</item>
+        <item>"Columbus Day - Second Monday in October \n"</item>
+        <item>"Veterans Day - November 11 \n"</item>
+        <item>"Thanksgiving Day - 4th Thursday in November \n"</item>
+        <item>"Christmas Day - December 25 \n"</item>
+    </string-array>
+
+    <!--Birth month flower names-->
+    <string-array name="birth_month_flower_array">
+        <item>"January - Carnation or Snowdrop \n"</item>
+        <item>"February - Violet or Primrose \n"</item>
+        <item>"March - Daffodil or Jonquil \n"</item>
+        <item>"April - Daisy or Sweet Pea \n"</item>
+        <item>"May - Lily of the Valley or Hawthorn \n"</item>
+        <item>"June - Rose or Honeysuckle \n"</item>
+        <item>"July - Larkspur or Water Lily \n"</item>
+        <item>"August - Gladiolas or Poppy \n"</item>
+        <item>"September - Aster or Morning Glory \n"</item>
+        <item>"October - Calendula or Cosmos \n"</item>
+        <item>"November - Chrysanthemum \n"</item>
+        <item>"December - Narcissus or Holly \n"</item>
+    </string-array>
+    
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
